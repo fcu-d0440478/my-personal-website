@@ -13,7 +13,6 @@ const routes = [
     name: "about",
     component: AboutPage,
   },
-  { path: "/:catchAll(.*)", component: () => import("@/views/404.vue") },
 ];
 
 const router = createRouter({
