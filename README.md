@@ -1,3 +1,5 @@
+The project is deployed on github pages: <https://fcu-d0440478.github.io/my-personal-website/>
+
 # my-personal-website
 
 ## Project setup
